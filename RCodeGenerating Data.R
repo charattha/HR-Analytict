@@ -219,5 +219,3 @@ write.csv(df, "Generate_HR_Dataset.csv", row.names = FALSE)
 head(df)
 
 ##create_report(df)
-
-## use_git_config(user.name = "charattha", user.email = "email@example.com")
